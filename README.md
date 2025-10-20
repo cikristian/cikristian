@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Christian RWIBUTSO! 👋
 
-<!--
-**cikristian/cikristian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me 🚀
 
-Here are some ideas to get you started:
+I'm a passionate **Data Analyst/Scientist/Engineering** with experience in **SQL, Python, R Microsoft Office, Excel**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently learning: **Masters of Big Data Analyrics and Backend Development**
+- 🔭 Working on: **Health Prediction System**
+- 🌍 Languages: **Python, R, SQL, English and Kinyarwanda**
+- 📫 How to reach me: **rwibutsohakizinkachristian@gmail.com**
+
+
+
+
+## Get in Touch 📬
+
+- **[LinkedIn]**(https://www.linkedin.com/in/rwibutso-hakizinka-christian-27a8871a4/)
+
+
